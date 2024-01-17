@@ -1,15 +1,14 @@
 # II_Data_Structures_Seminar
-3rd Semester Proyect
+3rd Semester Project
 
-
-**Project Name:** SHEIN-Style Fashion Store Simulator
+**Project Name:** SHEIN Simulator
 
 **Description:**
-The "SHEIN-Style Fashion Store Simulator" is a program developed as part of the Seminar on Problem Solving in Data Structures II. This project aims to simulate the operation of an online fashion store, taking inspiration from the popular e-commerce website SHEIN.
+The "SHEIN-Style Fashion Store Simulator" is a terminal-based program developed as part of the Seminar on Problem Solving in Data Structures II. This project aims to simulate the operation of an online fashion store, drawing inspiration from the popular e-commerce website SHEIN.
 
 **Key Features:**
 
-1. **Product Catalog:** The program allows users to browse a catalog of fashion products, including clothing, accessories, and more. Each product is represented by a class containing detailed information such as name, description, price, available sizes, and more.
+1. **Product Catalog:** The program enables users to navigate a catalog of fashion products, including clothing, accessories, and more. Each product is represented by a class containing detailed information such as name, description, price, available sizes, and more.
 
 2. **Shopping Cart:** Users can select products and add them to their shopping cart. The program keeps track of items in the cart, calculates the total purchase amount, and enables users to manage their selection before completing the purchase.
 
@@ -19,7 +18,7 @@ The "SHEIN-Style Fashion Store Simulator" is a program developed as part of the 
 
 5. **Inventory and Stock:** Inventory of products is tracked and updated in real-time as customers make purchases.
 
-6. **Classes and Data Structures:** The project extensively utilizes data structures such as classes to represent products, lists to keep track of items in the cart, and other suitable structures for user management and inventory control.
+6. **Classes, Data Structures, Trees, and Graphs:** The project extensively utilizes data structures such as classes for product representation, lists for cart management, as well as trees and graphs for various functionalities.
 
 **Project Objectives:**
 - Apply the concepts and techniques learned in the Seminar on Problem Solving in Data Structures II to a practical project.
@@ -27,7 +26,9 @@ The "SHEIN-Style Fashion Store Simulator" is a program developed as part of the 
 - Simulate the operation of an online fashion store, including user interaction, inventory tracking, and payment processing.
 
 **Additional Requirements:**
-- The project is expected to include clear documentation and code comments to facilitate understanding and maintenance.
-- The user interface should be intuitive and user-friendly for customers.
+- The project is entirely terminal-based; there is no graphical user interface.
+- Clear documentation and code comments are expected to facilitate understanding and maintenance.
+- The user interface in the terminal should be intuitive and user-friendly for customers.
 
-
+**Note:**
+The project goes beyond a graphical interface and includes file handling, data compression and decompression, as well as the implementation of trees and graphs for specific functionalities—all within the terminal environment.
