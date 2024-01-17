@@ -1,0 +1,19 @@
+12345678|Gorra|Accesorio|12/23/21|96|Nike|Gorra de beisbol para hombres|12
+91827364|Sudader|Parte superior|30/09/18|350|Pirma|Sudadera impermeable|6
+56341212|Lentes|Accesorios|12/09/14|200|adidas|Antoejos para las rayos ultravioletas|25
+12315311|Pants|Parte Inferior|15/04/20|300|Chanel|Pants color gris con azul|30
+23145236|short|Parte inferior|21/05/93|543|puma|short como de guepardo|42
+56783289|Bermuda|Parte inferior|31/05/20|600|Adidas|bermudas de color negro y blanco|20
+36725162|Tenis|Calzado|01/09/23|1430|Jordan x Nike|Tenis ultima edicion, fino senores|4
+
+
+***********************************************************************************************************
+
+
+081234567805Gorra09Accesorio021202230221029604Nike29Gorra de beisbol para hombres0212
+089182736408Sudadera14Parte superios0230020902180335005Pirma20Sudadera impermeable016
+085634121206Lentes10Accesorios0212020902140320006Adidas37Antoejos para las rayos ultravioletas0225
+081231531105Pants14Parte Inferior0215020402200330006Chanel25Pants color gris con azul0230
+082314523605short14Parte inferior0221020502930354304puma23short como de guepardo0242
+085678328907Bermuda14Parte inferior0231020502200360006Adidas32bermudas de color negro y blanco0220
+083672516205Tenis07Calzado02010209022304143013Jordan x Nike34Tenis ultima edicion, fino senores014
