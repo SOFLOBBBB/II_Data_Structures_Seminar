@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Shein(Prueba)" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Shein(Prueba)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Shein(Prueba)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AyudaSoporteTecnico.cpp" />
+		<Unit filename="AyudaSoporteTecnico.hpp" />
+		<Unit filename="Cancelacion.cpp" />
+		<Unit filename="Cancelacion.hpp" />
+		<Unit filename="Compresion y Descompresion/listaVentas.cpp" />
+		<Unit filename="Compresion y Descompresion/listaVentas.hpp" />
+		<Unit filename="Compresion y Descompresion/lslVentas.hpp" />
+		<Unit filename="Compresion y Descompresion/menuVentas.cpp" />
+		<Unit filename="Compresion y Descompresion/menuVentas.hpp" />
+		<Unit filename="Compresion y Descompresion/nodeLSLVentas.hpp" />
+		<Unit filename="Compresion y Descompresion/nodelVentas.cpp" />
+		<Unit filename="Compresion y Descompresion/nodelVentas.hpp" />
+		<Unit filename="Compresion y Descompresion/ventas.cpp" />
+		<Unit filename="Compresion y Descompresion/ventas.hpp" />
+		<Unit filename="Empleados.cpp" />
+		<Unit filename="Empleados.hpp" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Grafos/MenuUsuarioGrafos.cpp" />
+		<Unit filename="Grafos/MenuUsuarioGrafos.hpp" />
+		<Unit filename="Grafos/MetodoDePago.cpp" />
+		<Unit filename="Grafos/MetodoDePago.hpp" />
+		<Unit filename="Grafos/graph.hpp" />
+		<Unit filename="Grafos/list.hpp" />
+		<Unit filename="Grafos/queue.hpp" />
+		<Unit filename="Grafos/stack.hpp" />
+		<Unit filename="IndiceInvertido/Assert.cpp" />
+		<Unit filename="IndiceInvertido/Assert.hpp" />
+		<Unit filename="IndiceInvertido/Devoluciones.cpp" />
+		<Unit filename="IndiceInvertido/Devoluciones.hpp" />
+		<Unit filename="IndiceInvertido/Eslabon.hpp" />
+		<Unit filename="IndiceInvertido/ListaDoblementeLigada.hpp" />
+		<Unit filename="IndiceInvertido/ListaLigada.hpp" />
+		<Unit filename="Interfaz.cpp" />
+		<Unit filename="Interfaz.hpp" />
+		<Unit filename="ListaCircular.hpp" />
+		<Unit filename="Pedido.cpp" />
+		<Unit filename="Pedido.hpp" />
+		<Unit filename="Producto.cpp" />
+		<Unit filename="Producto.hpp" />
+		<Unit filename="Proveedor.cpp" />
+		<Unit filename="Proveedor.hpp" />
+		<Unit filename="fecha.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="usuario.cpp" />
+		<Unit filename="usuario.hpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

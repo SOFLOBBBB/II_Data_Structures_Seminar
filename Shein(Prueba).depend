@@ -1,0 +1,237 @@
+# depslib dependency file v1.0
+1697141060 source:d:\documentos\estructuras_de_datos_ii\grafos\ayudasoportetecnico.cpp
+	"AyudaSoporteTecnico.hpp"
+
+1697137602 d:\documentos\estructuras_de_datos_ii\grafos\ayudasoportetecnico.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1695406544 source:d:\documentos\estructuras_de_datos_ii\grafos\cancelacion.cpp
+	"Cancelacion.hpp"
+
+1695404314 d:\documentos\estructuras_de_datos_ii\grafos\cancelacion.hpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<fstream>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	"Interfaz.hpp"
+
+1700092944 d:\documentos\estructuras_de_datos_ii\grafos\interfaz.hpp
+	<fstream>
+	<conio.h>
+	<chrono>
+	<random>
+	<functional>
+	<windows.h>
+	<ctime>
+	"Producto.hpp"
+	"fecha.hpp"
+	"ListaCircular.hpp"
+	"Pedido.hpp"
+	"Proveedor.hpp"
+	"Cancelacion.hpp"
+	"Empleados.hpp"
+	"IndiceInvertido/Devoluciones.hpp"
+	"AyudaSoporteTecnico.hpp"
+	"usuario.hpp"
+	"Compresion y Descompresion/menuVentas.hpp"
+	"Grafos/MenuUsuarioGrafos.hpp"
+
+1693413184 d:\documentos\estructuras_de_datos_ii\grafos\producto.hpp
+	<string.h>
+	"fecha.hpp"
+
+1692988656 d:\documentos\estructuras_de_datos_ii\grafos\fecha.hpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1693521928 d:\documentos\estructuras_de_datos_ii\grafos\listacircular.hpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+	<exception>
+	<chrono>
+	<random>
+	<functional>
+	<string>
+	<windows.h>
+	<ctime>
+	"Producto.hpp"
+	"fecha.hpp"
+
+1693595942 d:\documentos\estructuras_de_datos_ii\grafos\pedido.hpp
+	<iostream>
+	<string>
+	"fecha.hpp"
+	"Producto.hpp"
+
+1694113614 d:\documentos\estructuras_de_datos_ii\grafos\proveedor.hpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<fstream>
+	<cstring>
+	<conio.h>
+
+1696439738 d:\documentos\estructuras_de_datos_ii\grafos\empleados.hpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<fstream>
+	<cstring>
+	<conio.h>
+	<vector>
+
+1696455658 d:\documentos\estructuras_de_datos_ii\grafos\indiceinvertido\devoluciones.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"ListaLigada.hpp"
+
+1696445758 d:\documentos\estructuras_de_datos_ii\grafos\indiceinvertido\listaligada.hpp
+	"Assert.hpp"
+	"Eslabon.hpp"
+
+1696447882 d:\documentos\estructuras_de_datos_ii\grafos\indiceinvertido\assert.hpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1696445520 d:\documentos\estructuras_de_datos_ii\grafos\indiceinvertido\eslabon.hpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1698253776 d:\documentos\estructuras_de_datos_ii\grafos\usuario.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+
+1698602592 d:\documentos\estructuras_de_datos_ii\grafos\compresion y descompresion\menuventas.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<conio.h>
+	"ventas.hpp"
+	"listaVentas.hpp"
+
+1698537112 d:\documentos\estructuras_de_datos_ii\grafos\compresion y descompresion\ventas.hpp
+	<iostream>
+
+1698536448 d:\documentos\estructuras_de_datos_ii\grafos\compresion y descompresion\listaventas.hpp
+	<iostream>
+	<conio.h>
+	<string>
+	<windows.h>
+	<vector>
+	<fstream>
+	"nodelVentas.hpp"
+
+1698536260 d:\documentos\estructuras_de_datos_ii\grafos\compresion y descompresion\nodelventas.hpp
+
+1700094402 d:\documentos\estructuras_de_datos_ii\grafos\grafos\menuusuariografos.hpp
+	<iostream>
+	<string>
+	<wchar.h>
+	<locale.h>
+	<conio.h>
+	"graph.hpp"
+	"MetodoDePago.hpp"
+
+1700094372 d:\documentos\estructuras_de_datos_ii\grafos\grafos\graph.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	"list.hpp"
+	"queue.hpp"
+	"stack.hpp"
+
+1700094362 d:\documentos\estructuras_de_datos_ii\grafos\grafos\list.hpp
+	<iostream>
+	<fstream>
+	<string>
+
+1700089300 d:\documentos\estructuras_de_datos_ii\grafos\grafos\queue.hpp
+	<string>
+
+1700089300 d:\documentos\estructuras_de_datos_ii\grafos\grafos\stack.hpp
+	<string>
+
+1700092668 d:\documentos\estructuras_de_datos_ii\grafos\grafos\metododepago.hpp
+	<string>
+	<sstream>
+	<iostream>
+	<wchar.h>
+	<locale.h>
+
+1698604106 source:d:\documentos\estructuras_de_datos_ii\grafos\compresion y descompresion\listaventas.cpp
+	"listaVentas.hpp"
+
+1698540746 source:d:\documentos\estructuras_de_datos_ii\grafos\compresion y descompresion\menuventas.cpp
+	"menuVentas.hpp"
+
+1698537112 source:d:\documentos\estructuras_de_datos_ii\grafos\compresion y descompresion\nodelventas.cpp
+	"nodelVentas.hpp"
+
+1698602592 source:d:\documentos\estructuras_de_datos_ii\grafos\compresion y descompresion\ventas.cpp
+	"ventas.hpp"
+
+1695409946 source:d:\documentos\estructuras_de_datos_ii\grafos\empleados.cpp
+	"Empleados.hpp"
+
+1692994380 source:d:\documentos\estructuras_de_datos_ii\grafos\fecha.cpp
+	"fecha.hpp"
+
+1696453762 source:d:\documentos\estructuras_de_datos_ii\grafos\indiceinvertido\assert.cpp
+	"Assert.hpp"
+
+1696821466 source:d:\documentos\estructuras_de_datos_ii\grafos\indiceinvertido\devoluciones.cpp
+	"Devoluciones.hpp"
+
+1700094426 source:d:\documentos\estructuras_de_datos_ii\grafos\interfaz.cpp
+	"Interfaz.hpp"
+
+1693066790 source:d:\documentos\estructuras_de_datos_ii\grafos\main.cpp
+	"Interfaz.hpp"
+
+1693595942 source:d:\documentos\estructuras_de_datos_ii\grafos\pedido.cpp
+	"Pedido.hpp"
+
+1693413222 source:d:\documentos\estructuras_de_datos_ii\grafos\producto.cpp
+	"Producto.hpp"
+
+1694113904 source:d:\documentos\estructuras_de_datos_ii\grafos\proveedor.cpp
+	"Proveedor.hpp"
+
+1698540882 source:d:\documentos\estructuras_de_datos_ii\grafos\usuario.cpp
+	"usuario.hpp"
+
+1700095316 source:d:\documentos\estructuras_de_datos_ii\grafos\grafos\menuusuariografos.cpp
+	"MenuUsuarioGrafos.hpp"
+
+1700093164 source:d:\documentos\estructuras_de_datos_ii\grafos\grafos\metododepago.cpp
+	"MetodoDePago.hpp"
+

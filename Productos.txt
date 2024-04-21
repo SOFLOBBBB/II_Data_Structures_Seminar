@@ -1,0 +1,6 @@
+12345678|Gorra|Accesorio|12/23/21|96|Nike|Gorra de beisbol para hombres|12
+91827364|Sudader|Parte superior|30/09/18|350|Pirma|Sudadera impermeable|6
+56341212|Lentes|Accesorios|12/09/14|200|adidas|Antoejos para las rayos ultravioletas|25
+12315311|Pants|Parte Inferior|15/04/20|300|Chanel|Pants color gris con azul|30
+23145236|short|Parte inferior|21/05/93|543|puma|short como de guepardo|42
+21567|Sofia Castellanos |Vestido |25/09/2019|678|Gucci|Rojo|56
